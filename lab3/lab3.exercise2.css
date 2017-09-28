@@ -1,0 +1,11 @@
+body{background-color:#ff0000;}
+
+ul{color:#0dba15;
+  font-style:italic;
+  }
+
+li{list-style-type:none;
+  padding:8px;
+  float:left;
+  font-size:30px;
+  }
