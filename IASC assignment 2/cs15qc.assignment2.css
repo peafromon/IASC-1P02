@@ -1,0 +1,48 @@
+h1,h2{
+  color: #002560;
+  font-family: arial;
+  }
+
+#anchor{
+  color: #600000;
+  font-weight:bold;
+}
+
+.anchor{
+  color: #600000;
+  font-weight: bold;
+  font-size: 24px;
+  text-decoration: none;
+  font-family:arial;
+}
+
+.links{
+  color: #000000;
+  font-family: arial;
+  text-decoration: none;
+}
+
+ul,ol{
+  font-family:arial;
+}
+
+#list{
+  font-family: arial;
+  font-weight:bold;
+}
+
+.imageheaders{
+  font-family: arial;
+  font-variant: small-caps;
+  font-weight:bold;
+}
+
+#secondpagetext{
+  text-transform: capitalize;
+}
+
+
+img{
+  border:10px;
+  border-color: black;
+}
