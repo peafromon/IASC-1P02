@@ -1,0 +1,74 @@
+#body{
+  background-color: white;
+}
+
+#header{
+  width:90%;
+  float:left;
+}
+
+h1{
+  font-family: Arial;
+  /*-- THIS CHANGES THE FONT --*/
+  color:red;
+  /*-- THIS CHANGES THE COLOR --*/
+  text-transform: uppercase;
+  /*-- THIS TRANSFORMS THE TEXT --*/
+}
+
+#anchor{
+  width:10%;
+  float: right;
+}
+
+/*-- NESTED SELECTORS --*/
+#anchor img{
+  height:50px;
+  width:auto;
+  position:fixed;
+  /*-- HERES THE FIXED POSITIONING --*/
+  padding:10px;
+  /*-- PADDING --*/
+}
+
+#links{
+  width: 100%;
+  float: left;
+  font-family: Arial;
+  text-decoration:none;
+  color: black;
+}
+
+#lists{
+  font-family: Arial;
+  width: 50%;
+  float:left;
+}
+
+/*-- GROUPED SELECTORS --*/
+ul, ol{
+  color:blue;
+}
+
+#images{
+  font-family: Arial;
+  width:50%;
+  float: left;
+}
+
+#footer {
+  background-color: blue;
+  color: white;
+  border-style: dashed;
+  border-color: purple;
+  margin-right: 8px;
+  /*-- HERES SOME MARGIN --*/
+  width: 99.5%;
+  text-align: center;
+  font-family: Arial;
+  clear:both;
+  font-size: 20px;
+  /*-- CHANGES THE FONT SIZE --*/
+  position: relative;
+  /*-- RELATIVE POSTITIONING --*/
+}
