@@ -1,0 +1,32 @@
+body{
+  background-color: white;
+  font-family: Arial;
+  margin: 0px 0px 0px 0px;
+}
+
+#header img{
+  width:100%;
+  height:auto;
+  position: fixed;
+  top:0px;
+  bottom:0px;
+}
+
+#nav, #nav ul{
+  list-style-type: none;
+  position:fixed;
+  top:341.812px;
+  background-color: #87b5ff;
+  clear:both;
+  width:125px;
+  height: 100%;
+
+}
+
+#picture {
+  width:400px;
+  float:left;
+  clear:both;
+  margin-top:341.812px;
+  margin-left: 125px;
+}
