@@ -1,0 +1,35 @@
+body{
+  background-color:blue;
+}
+
+#box1{
+  border-style: solid;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right:100px;
+  height: 394px;
+}
+
+#box2{
+  border-style: dashed;
+  border-color: green;
+  margin:10px;
+  border-width: thin;
+}
+
+p{
+  color:red;
+}
+
+#box3{
+  border-style: dashed;
+  border-color:yellow;
+  border-width: thin;
+  width:220.5px;
+}
+
+img{
+  height:300px;
+  width:auto;
+  padding: 10px;
+}

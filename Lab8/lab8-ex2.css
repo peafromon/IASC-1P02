@@ -1,0 +1,39 @@
+#box1{
+  border-style: dotted;
+  border-color: purple;
+  margin:10px;
+  height:200px;
+}
+#box1 p{
+  text-align: center;
+  margin-top: 150px;
+}
+
+#words2 p{
+  text-align: center;
+  color:green;
+  font-size: 12px;
+}
+
+.words3{
+  color:orange;
+  font-size: 34px;
+}
+
+.purple{
+  color:purple;
+  font-size: 8px;
+  text-align: right;
+}
+
+.yellow{
+  color:yellow;
+  font-size: 8px;
+  font-style: italic;
+}
+
+
+#super{
+  vertical-align: super;
+  color:red;
+}
