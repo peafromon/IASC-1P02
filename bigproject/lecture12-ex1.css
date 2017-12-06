@@ -175,6 +175,7 @@ h1 a{
 .trueorfalse{
   font-family: Arial;
   font-weight: bold;
+  margin-bottom: 55px;
 }
 
 #answer{
@@ -191,4 +192,25 @@ button{
   border-style: none;
   border-radius: 3px;
   height: 17px;
+}
+
+.images{
+  margin-left: 147px;
+  clear:both;
+  margin-bottom: 50px;
+}
+
+.images img{
+  height: 175px;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.images h2{
+  font-family: impact;
+}
+
+.images p{
+  font-family: arial;
+  font-weight: bold;
 }
